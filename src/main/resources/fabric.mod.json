@@ -3,13 +3,13 @@
 	"id": "mythiclib",
 	"version": "${version}",
 	"name": "Mythic Lib",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Mythic Lib adds cross smithing upgrade recipes for Mythic Upgrades!",
 	"authors": [
 		"TriQue!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/TriQue06/mythic-lib"
 	},
 	"license": "MIT Licence",
 	"icon": "assets/mythiclib/icon.png",
